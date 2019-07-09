@@ -1,0 +1,28 @@
+{
+  "entries": [
+    {
+      "item": "appliedenergistics2:material|47",
+      "emc": 0
+    },
+    {
+      "item": "avaritia:resource|2",
+      "emc": 0
+    },
+    {
+      "item": "avaritia:resource|3",
+      "emc": 0
+    },
+    {
+      "item": "avaritia:resource|4",
+      "emc": 0
+    },
+    {
+      "item": "avaritia:block_resource|0",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_material|20",
+      "emc": 0
+    }
+  ]
+}

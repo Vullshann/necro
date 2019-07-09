@@ -1,0 +1,722 @@
+[
+  {
+    "identifier": "aethium",
+    "meta": 0,
+    "color": -16777216,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "blackquartz_plustic",
+    "meta": 0,
+    "color": -16777216,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "awakened_plustic",
+    "meta": 0,
+    "color": -22016,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "electrical_steel",
+    "meta": 0,
+    "color": -5658199,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "dark_steel",
+    "meta": 0,
+    "color": -9671572,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "construction_alloy",
+    "meta": 0,
+    "color": -14084054,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "fierymetal",
+    "meta": 0,
+    "color": -142243,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "bloodwood_plustic",
+    "meta": 0,
+    "color": -10485760,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "redstone_alloy",
+    "meta": 0,
+    "color": -5167321,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "steeleaf",
+    "meta": 0,
+    "color": -11368646,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "ma.intermedium",
+    "meta": 0,
+    "color": -4765440,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "tanzanite",
+    "meta": 0,
+    "color": -43521,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "mirion",
+    "meta": 0,
+    "color": -171,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "osgloglas",
+    "meta": 0,
+    "color": -9240728,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "elementium",
+    "meta": 0,
+    "color": -43521,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "integrationforegoing.plastic",
+    "meta": 0,
+    "color": -5395027,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "erodium",
+    "meta": 0,
+    "color": -4499713,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "manasteel",
+    "meta": 0,
+    "color": -11184641,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "refinedglowstone",
+    "meta": 0,
+    "color": -171,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "darkmatter",
+    "meta": 0,
+    "color": -14221005,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "enori_actadd_plustic",
+    "meta": 0,
+    "color": -1,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "terrasteel",
+    "meta": 0,
+    "color": -11141291,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "infinity_avaritia_plustic",
+    "meta": 0,
+    "color": -43521,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "ma.prudentium",
+    "meta": 0,
+    "color": -16741341,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "integrationforegoing.reinforced_pink_slime",
+    "meta": 0,
+    "color": -4032074,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "darkwood_plustic",
+    "meta": 0,
+    "color": -16777046,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "emeradic_actadd_plustic",
+    "meta": 0,
+    "color": -16733696,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "soularium",
+    "meta": 0,
+    "color": -9872563,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "restonia_actadd_plustic",
+    "meta": 0,
+    "color": -5636096,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "void_actadd_plustic",
+    "meta": 0,
+    "color": -16777216,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "end_steel",
+    "meta": 0,
+    "color": -262989,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "blood_infused_iron",
+    "meta": 0,
+    "color": -3267306,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "ma.base_essence",
+    "meta": 0,
+    "color": -3014657,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "palis_actadd_plustic",
+    "meta": 0,
+    "color": -16777046,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "blood_infused_wood",
+    "meta": 0,
+    "color": -9952488,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "ma.soulium",
+    "meta": 0,
+    "color": -11124169,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "xu_magical_wood",
+    "meta": 0,
+    "color": -131160,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "vibrant_alloy",
+    "meta": 0,
+    "color": -4798352,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "xu_demonic_metal",
+    "meta": 0,
+    "color": -6079744,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "ma.superium",
+    "meta": 0,
+    "color": -16744485,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "chaotic_plustic",
+    "meta": 0,
+    "color": -5592406,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "titanium",
+    "meta": 0,
+    "color": -1,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "fusewood_plustic",
+    "meta": 0,
+    "color": -16723570,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "refinedobsidian",
+    "meta": 0,
+    "color": -43521,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "livingwood_plustic",
+    "meta": 0,
+    "color": -16733696,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "pladium",
+    "meta": 0,
+    "color": -16318352,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "mica",
+    "meta": 0,
+    "color": -4473925,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "malachite_gem",
+    "meta": 0,
+    "color": -16733696,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "amethyst",
+    "meta": 0,
+    "color": -43521,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "ma.prosperity",
+    "meta": 0,
+    "color": -6044219,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "energetic_alloy",
+    "meta": 0,
+    "color": -2518196,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "ma.inferium",
+    "meta": 0,
+    "color": -9138688,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "topaz",
+    "meta": 0,
+    "color": -22016,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "xu_evil_metal",
+    "meta": 0,
+    "color": -131160,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "xu_enchanted_metal",
+    "meta": 0,
+    "color": -4197792,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "certusquartz_plustic",
+    "meta": 0,
+    "color": 1439950847,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "integrationforegoing.pink_slime",
+    "meta": 0,
+    "color": -807226,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "redmatter",
+    "meta": 0,
+    "color": -1900544,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "kyronite",
+    "meta": 0,
+    "color": -8978305,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "lumium_plustic",
+    "meta": 0,
+    "color": -171,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "pulsating_iron",
+    "meta": 0,
+    "color": -13856700,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "knightmetal",
+    "meta": 0,
+    "color": -3873106,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "thaumium",
+    "meta": 0,
+    "color": -14811034,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "osmium",
+    "meta": 0,
+    "color": -11184641,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "treatedwood",
+    "meta": 0,
+    "color": -10144478,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "amber",
+    "meta": 0,
+    "color": -22016,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "constantan",
+    "meta": 0,
+    "color": -1015446,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "ionite",
+    "meta": 0,
+    "color": -9570817,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "enderium_plustic",
+    "meta": 0,
+    "color": -16733696,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "fluixcrystal_plustic",
+    "meta": 0,
+    "color": -2009268071,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "ma.supremium",
+    "meta": 0,
+    "color": -3932160,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "diamatine_actadd_plustic",
+    "meta": 0,
+    "color": -11184641,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "litherite",
+    "meta": 0,
+    "color": -16282031,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "conductive_iron",
+    "meta": 0,
+    "color": -5546657,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "osmiridium",
+    "meta": 0,
+    "color": -43521,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "nagascale",
+    "meta": 0,
+    "color": -13476571,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "wyvern_plustic",
+    "meta": 0,
+    "color": -5635926,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "platinum_plustic",
+    "meta": 0,
+    "color": -11184641,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "ghostwood_plustic",
+    "meta": 0,
+    "color": -1,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "identifier": "signalum_plustic",
+    "meta": 0,
+    "color": -43691,
+    "type": "DEFAULT",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  }
+]
